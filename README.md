@@ -13,3 +13,18 @@ People with diabetes are at risk of having an eye disease called diabetic retino
 FGADR-2842 consists of two sets. The first set, named Seg-set, contains 1,842 images with both pixel-level lesion annotations and image-level grading labels. The lesions include microaneurysms (MA), hemorrhages (HE), hard exudates (EX), soft exudates (SE), intra-retinal microvascular abnormalities (IRMA), and neovascularization (NV). The grading labels are annotated by three ophthalmologists. The second set, named Grade-set, is a set of 1,000 images with grading labels annotated by six ophthalmologists. This set is particularly used for evaluating grading performance due to its high annotation confidence. In addition to the six pixel-level lesions annotated in Seg-set, we also annotate the laser mark (LM) and proliferate membrane (PM) lesions with image-level labels.
 
 ![Image text](https://github.com/csyizhou/FGADR-2842-Dataset/blob/master/img/FGADR_Statistics.png)
+
+
+# [Dataset Access]
+
+Note:
+1. The FGADR-2842 database is available for non-commercial research purposes only.
+2. Most images of the FGADR-2842 database are obtained from the UAE hospitals which are the property of Inception Institute of Artificial Intelligence, Abu Dhabi, UAE.
+You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data.
+You agree not to further copy, publish or distribute any portion of the FGADR-2842 database. Except, for internal use at a single site within the same organization it is allowed to make copies of the database.
+The IIAI reserves the right to terminate your access to the database at any time.
+All submitted papers or any publicly available text using the FGADR-2842 database must cite the following paper:
+Yi Zhou, Boyang Wang, Shanshan Cui, and Ling Shao. A Benchmark for Studying Diabetic Retinopathy: Segmentation, Grading, and Transferability. (Coming soon...)
+
+Download Instructions:
+Check this file for the instruction. (Coming soon...)
