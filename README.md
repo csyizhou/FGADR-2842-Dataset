@@ -12,4 +12,4 @@ People with diabetes are at risk of having an eye disease called diabetic retino
 
 FGADR-2842 consists of two sets. The first set, named Seg-set, contains 1,842 images with both pixel-level lesion annotations and image-level grading labels. The lesions include microaneurysms (MA), hemorrhages (HE), hard exudates (EX), soft exudates (SE), intra-retinal microvascular abnormalities (IRMA), and neovascularization (NV). The grading labels are annotated by three ophthalmologists. The second set, named Grade-set, is a set of 1,000 images with grading labels annotated by six ophthalmologists. This set is particularly used for evaluating grading performance due to its high annotation confidence. In addition to the six pixel-level lesions annotated in Seg-set, we also annotate the laser mark (LM) and proliferate membrane (PM) lesions with image-level labels.
 
-![Image text](https://github.com/csyizhou/FGADR-2842-Dataset/blob/master/img/FGADR_statistics.png)
+![Image text](https://github.com/csyizhou/FGADR-2842-Dataset/blob/master/img/FGADR_Statistics.png)
