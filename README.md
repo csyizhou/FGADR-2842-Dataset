@@ -28,3 +28,5 @@ Yi Zhou, Boyang Wang, Shanshan Cui, and Ling Shao. A Benchmark for Studying Diab
 
 Download Instructions:
 Check this file for the instruction. (Coming soon...)
+
+Contact: yizhou.szcn@gmail.com
