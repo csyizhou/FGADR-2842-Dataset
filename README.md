@@ -24,9 +24,12 @@ Note:
 4. You agree not to further copy, publish or distribute any portion of the FGADR database. Except, for internal use at a single site within the same organization it is allowed to make copies of the database.
 5. The IIAI reserves the right to terminate your access to the database at any time.
 6. All submitted papers or any publicly available text using the FGADR database must cite the following paper:
-Yi Zhou, Boyang Wang, Shanshan Cui, and Ling Shao. A Benchmark for Studying Diabetic Retinopathy: Segmentation, Grading, and Transferability. (Coming soon...)
+Yi Zhou, Boyang Wang, Shanshan Cui, and Ling Shao. A Benchmark for Studying Diabetic Retinopathy: Segmentation, Grading, and Transferability.
+https://www.dropbox.com/s/eex4qfvru530cpn/FGADR_paper_v1.pdf?dl=0
 
 Download Instructions:
-Check this file for the instruction. (Coming soon...)
+Please read the IIAI FGADR Dataset Research Use Agreement https://www.dropbox.com/s/ggahmdu2fh9ag9x/IIAI_FGADR_Research_Use_Agreement.pdf?dl=0.
+
+Once you agree to register to download the FGADR dataset, please sign the form and email to yizhou.szcn@gmail.com. You will receive a link to the download over email (FGADR will be released, once the paper is published). Note that you may not share the link to download the dataset with others.
 
 Contact: yizhou.szcn@gmail.com
