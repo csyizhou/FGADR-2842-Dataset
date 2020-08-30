@@ -33,4 +33,8 @@ Please read the IIAI FGADR Dataset Research Use Agreement https://www.dropbox.co
 
 Once you agree to register to download the FGADR dataset, please sign the form and email to yizhou.szcn@gmail.com. You will receive a link to the download over email (FGADR will be released, once the paper is published). Note that you may not share the link to download the dataset with others.
 
+# [Code for Task 3]
+
+The codes for the proposed inductive transfer learning method can be found in https://github.com/csyizhou/Ocular-Multi-Disease-Identification.
+
 Contact: yizhou.szcn@gmail.com
