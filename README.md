@@ -19,7 +19,7 @@ FGADR consists of two sets. The first set, named Seg-set, contains 1,842 images 
 
 Note:
 1. The FGADR database is available for non-commercial research purposes only.
-2. Most images of the FGADR-2842 database are obtained from the UAE hospitals which are the property of Inception Institute of Artificial Intelligence, Abu Dhabi, UAE.
+2. Most images of the FGADR database are obtained from the UAE hospitals which are the property of Inception Institute of Artificial Intelligence, Abu Dhabi, UAE.
 3. You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data.
 4. You agree not to further copy, publish or distribute any portion of the FGADR database. Except, for internal use at a single site within the same organization it is allowed to make copies of the database.
 5. The IIAI reserves the right to terminate your access to the database at any time.
