@@ -1,5 +1,5 @@
 # FGADR-Dataset
-A large-scale Fine-Grained Annotated Diabetic Retinopathy dataset containing 2,842 images.
+A large-scale Fine-Grained Annotated Diabetic Retinopathy (FGADR) dataset consists of two subsets: Seg-set (1842 images) and Grade-set (1000 images).
 
 # [Motivation]
 
@@ -31,7 +31,7 @@ Download Instructions:
 
 Please read the IIAI FGADR Dataset Research Use Agreement https://www.dropbox.com/s/ggahmdu2fh9ag9x/IIAI_FGADR_Research_Use_Agreement.pdf?dl=0.
 
-Once you agree to register to download the FGADR dataset, please sign the form and email to yizhou.szcn@gmail.com. You will receive a link to the download over email (FGADR will be released, once the paper is published). Note that you may not share the link to download the dataset with others.
+Once you agree to register to download the FGADR dataset, please sign the form and email to yizhou.szcn@gmail.com. You will receive a link to the download over email. Note that you may not share the link to download the dataset with others.
 
 # [Code for Task 3]
 
